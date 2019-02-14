@@ -19,7 +19,7 @@ $config = array (
 		'sign_type'=>"RSA2",
 
 		//支付宝网关
-		'gatewayUrl' => "https://openapi.alipay.com/gateway.do",
+		'gatewayUrl' => "https://openapi.alipaydev.com/gateway.do",
 
 		//支付宝公钥,查看地址：https://openhome.alipay.com/platform/keyManage.htm 对应APPID下的支付宝公钥。
 		'alipay_public_key' => "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuqyhTFsv9Eo7x7V/fMpfaijeEmljck00jMIcoJNt3dvpD4WBySDYE0VmIUqT3NrE/Ew9dFoJB2ofx0omaokZuysgUjuuYUFzs2o6ed5MApb+LNb+lNIbBc0l3Ypq0GWKWwEiK4cNsNWBibDM/8lu5LC9S/W3xkNEN9lMHnAXZRBakc3muDbKL4wgpGIx85N71I0UejyXQJZc4lapHhpD0WCWsouztmmxMCtTgfX+erxCEup7FzFPF4U5latQqIWUcBPcHT5bCXkqnZC9noMWkyiP2CPBspDjqppPUcOgOGnO5OlLdGlwf2sNZNPWCWed4Y9TZ4fzIu51vC6KUAYnhQIDAQAB",
