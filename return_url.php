@@ -37,11 +37,12 @@ if($result) {//验证成功
 
 	//商户订单号
 	$out_trade_no = htmlspecialchars($_GET['out_trade_no']);
-
-	//支付宝交易号
-	$trade_no = htmlspecialchars($_GET['trade_no']);
+	$url = 'http://shop.com/index.php/Home/Order/fukuan/onumber/'.$out_trade_no;
+	Header("Location:$url"); 
+	// //支付宝交易号
+	// $trade_no = htmlspecialchars($_GET['trade_no']);
 		
-	echo "验证成功<br />支付宝交易号：".$trade_no;
+	// echo "验证成功<br />支付宝交易号：".$trade_no;
 
 	//——请根据您的业务逻辑来编写程序（以上代码仅作参考）——
 	
