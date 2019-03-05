@@ -37,7 +37,7 @@ if($result) {//验证成功
 
 	//商户订单号
 	$out_trade_no = htmlspecialchars($_GET['out_trade_no']);
-	$url = 'http://localhost:2020/shop/index.php/Home/Order/fukuan/onumber/'.$out_trade_no;
+	$url = 'http://shop.com/index.php/Home/Order/fukuan/onumber/'.$out_trade_no;
 	Header("Location:$url"); 
 	// //支付宝交易号
 	// $trade_no = htmlspecialchars($_GET['trade_no']);
