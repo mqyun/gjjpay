@@ -1,0 +1,235 @@
+[ 2015-11-28T10:35:39+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/add.html
+ERR: Think\Model:update方法不存在！
+
+[ 2015-11-28T10:36:02+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/add.html
+ERR: Think\Model:update方法不存在！
+
+[ 2015-11-28T10:36:10+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/add.html
+ERR: Think\Model:update方法不存在！
+
+[ 2015-11-28T10:37:24+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/add.html
+ERR: Think\Model:update方法不存在！
+
+[ 2015-11-28T10:37:31+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/add.html
+ERR: Think\Model:update方法不存在！
+
+[ 2015-11-28T10:38:15+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/add.html
+ERR: Think\Model:update方法不存在！
+
+[ 2015-11-28T10:38:26+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/add.html
+ERR: Think\Model:update方法不存在！
+
+[ 2015-11-28T10:38:57+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/add.html
+ERR: Think\Model:update方法不存在！
+
+[ 2015-11-28T10:39:52+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/add.html
+ERR: Think\Model:update方法不存在！
+
+[ 2015-11-28T10:40:01+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/add.html
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:41:02+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/add.html
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:41:10+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/add.html
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:41:27+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/add.html
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:41:31+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/add.html
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:42:22+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/index
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:42:29+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:42:38+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:43:10+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:43:15+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/
+ERR: 1146:Table 'honglao.onethink_document_model' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `onethink_document_model`
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:43:15+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/
+ERR: 1146:Table 'honglao.onethink_document_model' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `onethink_document_model`
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:43:15+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/
+ERR: 1146:Table 'honglao.onethink_document_model' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `onethink_document_model`
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:43:19+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/
+ERR: 1146:Table 'honglao.onethink_document_model' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `onethink_document_model`
+
+[ 2015-11-28T10:43:52+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/
+ERR: 1146:Table 'honglao.onethink_document_model' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `onethink_document_model`
+
+[ 2015-11-28T10:48:17+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/index.html
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:48:38+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/index.html
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:48:39+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/index.html
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:48:39+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/index.html
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:48:39+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/index.html
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:48:39+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/index.html
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:48:39+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/index.html
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:48:39+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/index.html
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:48:39+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/index.html
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:48:47+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/index.html
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:49:09+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/index.html
+ERR: 1146:Table 'honglao.onethink_waterlogging_model' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `onethink_waterlogging_model`
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:49:19+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/index.html
+ERR: 1146:Table 'honglao.onethink_waterlogging_model' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `onethink_waterlogging_model`
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:49:19+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/index.html
+ERR: 1146:Table 'honglao.onethink_waterlogging_model' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `onethink_waterlogging_model`
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:49:19+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/index.html
+ERR: 1146:Table 'honglao.onethink_waterlogging_model' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `onethink_waterlogging_model`
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:49:20+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/index.html
+ERR: 1146:Table 'honglao.onethink_waterlogging_model' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `onethink_waterlogging_model`
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:49:20+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/index.html
+ERR: 1146:Table 'honglao.onethink_waterlogging_model' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `onethink_waterlogging_model`
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:49:20+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/index.html
+ERR: 1146:Table 'honglao.onethink_waterlogging_model' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `onethink_waterlogging_model`
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:49:20+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/index.html
+ERR: 1146:Table 'honglao.onethink_waterlogging_model' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `onethink_waterlogging_model`
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:49:20+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/index.html
+ERR: 1146:Table 'honglao.onethink_waterlogging_model' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `onethink_waterlogging_model`
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:49:20+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/index.html
+ERR: 1146:Table 'honglao.onethink_waterlogging_model' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `onethink_waterlogging_model`
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:49:20+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/index.html
+ERR: 1146:Table 'honglao.onethink_waterlogging_model' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `onethink_waterlogging_model`
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:49:20+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/index.html
+ERR: 1146:Table 'honglao.onethink_waterlogging_model' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `onethink_waterlogging_model`
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:49:20+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/index.html
+ERR: 1146:Table 'honglao.onethink_waterlogging_model' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `onethink_waterlogging_model`
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:49:20+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/index.html
+ERR: 1146:Table 'honglao.onethink_waterlogging_model' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `onethink_waterlogging_model`
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:49:20+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/index.html
+ERR: 1146:Table 'honglao.onethink_waterlogging_model' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `onethink_waterlogging_model`
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:49:20+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/index.html
+ERR: 1146:Table 'honglao.onethink_waterlogging_model' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `onethink_waterlogging_model`
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:49:20+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/index.html
+ERR: 1146:Table 'honglao.onethink_waterlogging_model' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `onethink_waterlogging_model`
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:49:20+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/index.html
+ERR: 1146:Table 'honglao.onethink_waterlogging_model' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `onethink_waterlogging_model`
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:49:20+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/index.html
+ERR: 1146:Table 'honglao.onethink_waterlogging_model' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `onethink_waterlogging_model`
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:49:20+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/index.html
+ERR: 1146:Table 'honglao.onethink_waterlogging_model' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `onethink_waterlogging_model`
+ERR: Think\Model:hello方法不存在！
+
+[ 2015-11-28T10:49:25+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/index.html
+ERR: 1146:Table 'honglao.onethink_waterlogging_model' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `onethink_waterlogging_model`
+
+[ 2015-11-28T10:58:47+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/index.html
+ERR: 1146:Table 'honglao.onethink_waterlogging_model' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `onethink_waterlogging_model`
+ERR: 1146:Table 'honglao.onethink_waterlogging_model' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `onethink_waterlogging_model` WHERE ( `id` = 1 ) LIMIT 1  
+
+[ 2015-11-28T11:02:19+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/index.html
+ERR: 1146:Table 'honglao.onethink_doucment' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `onethink_doucment`
+ERR: 1146:Table 'honglao.onethink_doucment' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `onethink_doucment` WHERE ( `id` = 1 ) LIMIT 1  
+
+[ 2015-11-28T11:02:53+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/index.html
+ERR: 1146:Table 'honglao.onethink_asd' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `onethink_asd`
+ERR: 1146:Table 'honglao.onethink_asd' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `onethink_asd` WHERE ( `id` = 1 ) LIMIT 1  
+
+[ 2015-11-28T11:03:18+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/index/index.html
+ERR: 1146:Table 'honglao.onethink_doucment' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `onethink_doucment`
+ERR: 1146:Table 'honglao.onethink_doucment' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `onethink_doucment` WHERE ( `id` = 1 ) LIMIT 1  
+

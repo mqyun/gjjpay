@@ -1,0 +1,20 @@
+[ 2015-12-01T15:01:14+08:00 ] ::1 /honglao/wwwroot/index.php?s=/admin/model/del/ids/5.html
+ERR: 1051:Unknown table 'honglao.onethink_disastername'
+ [ SQL语句 ] : 				DROP TABLE onethink_disastername;
+
+[ 2015-12-01T15:09:29+08:00 ] ::1 /honglao/wwwroot/index.php?s=/admin/think/lists/model/disaster.html
+ERR: 1146:Table 'honglao.onethink_disaster' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `onethink_disaster`
+ERR: 1146:Table 'honglao.onethink_disaster' doesn't exist
+ [ SQL语句 ] : SELECT ``,`id` FROM `onethink_disaster` ORDER BY id DESC LIMIT 0,10  
+ERR: 1146:Table 'honglao.onethink_disaster' doesn't exist
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `onethink_disaster` LIMIT 1  
+
+[ 2015-12-01T15:16:26+08:00 ] ::1 /honglao/wwwroot/index.php?s=/admin/think/lists/model/disastername.html
+ERR: 1054:Unknown column '' in 'field list'
+ [ SQL语句 ] : SELECT ``,`id` FROM `onethink_disastername` ORDER BY id DESC LIMIT 0,10  
+
+[ 2015-12-01T15:16:53+08:00 ] ::1 /honglao/wwwroot/index.php?s=/admin/think/lists/model/disastername.html
+ERR: 1054:Unknown column '' in 'field list'
+ [ SQL语句 ] : SELECT ``,`id` FROM `onethink_disastername` ORDER BY id DESC LIMIT 0,10  
+

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	
+	<form action="{:U(add)}" method="post">
+		<input type="text" name="level" placeholder="级别">	<br>
+		<input type="text" name="duration" placeholder="持续时间"><br>	
+		<input type="text" name="area" placeholder="地区">	<br>
+		<input type="text" name="name" placeholder="名称"><br>
+		<select name="select">
+			<volist name="info" id="vo">
+				<option value="{$vo.type}" >{$vo.type}</option>
+			</volist>
+		</select>灾害类型
+		<input type="submit" value="提交">
+	</form>
+</body>
+</html>

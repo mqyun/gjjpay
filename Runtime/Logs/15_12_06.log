@@ -1,0 +1,52 @@
+[ 2015-12-06T15:36:02+08:00 ] ::1 /honglao/wwwroot/index.php?s=/admin/think/lists/model/waterlogging.html
+ERR: 1054:Unknown column '' in 'field list'
+ [ SQL语句 ] : SELECT ``,`id` FROM `onethink_waterlogging` ORDER BY id DESC LIMIT 0,10  
+
+[ 2015-12-06T16:05:02+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/disaster_info/add
+ERR: Think\Controller:create方法不存在！
+
+[ 2015-12-06T16:06:30+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/disaster_info/add
+ERR: 1146:Table 'honglao.onethink_disaster_info' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `onethink_disaster_info`
+
+[ 2015-12-06T16:07:27+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/disaster_info/add.html
+ERR: 1146:Table 'honglao.onethink_disaster_info' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `onethink_disaster_info`
+
+[ 2015-12-06T16:08:22+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/disaster_info/add.html
+ERR: 1146:Table 'honglao.onethink_disaster_info' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `onethink_disaster_info`
+
+[ 2015-12-06T16:10:14+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/disaster_info/add.html
+ERR: 1146:Table 'honglao.onethink_disaster_info' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `onethink_disaster_info`
+ERR: 1146:Table 'honglao.onethink_disaster_info' doesn't exist
+ [ SQL语句 ] : INSERT INTO `onethink_disaster_info` (`time`) VALUES (1449389414)
+
+[ 2015-12-06T16:11:26+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/disasterinfo/add
+ERR: 1146:Table 'honglao.onethink_disaster_info' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `onethink_disaster_info`
+ERR: 1146:Table 'honglao.onethink_disaster_info' doesn't exist
+ [ SQL语句 ] : INSERT INTO `onethink_disaster_info` (`time`) VALUES (1449389486)
+
+[ 2015-12-06T16:22:58+08:00 ] ::1 /honglao/wwwroot/index.php?s=/admin/attribute/remove/id/38.html
+ERR: 1091:Can't DROP 'name'; check that column/key exists
+ [ SQL语句 ] : 			ALTER TABLE `onethink_disasterinfo`
+DROP COLUMN `name`;
+
+[ 2015-12-06T16:23:30+08:00 ] ::1 /honglao/wwwroot/index.php?s=/admin/attribute/remove/id/39.html
+ERR: 1091:Can't DROP 'select'; check that column/key exists
+ [ SQL语句 ] : 			ALTER TABLE `onethink_disasterinfo`
+DROP COLUMN `select`;
+
+[ 2015-12-06T16:24:05+08:00 ] ::1 /honglao/wwwroot/index.php?s=/admin/attribute/remove/id/40.html
+ERR: 1091:Can't DROP 'time'; check that column/key exists
+ [ SQL语句 ] : 			ALTER TABLE `onethink_disasterinfo`
+DROP COLUMN `time`;
+
+[ 2015-12-06T16:31:27+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/disasterinfo/add.html
+ERR: Think\Model:updata方法不存在！
+
+[ 2015-12-06T16:31:52+08:00 ] ::1 /honglao/wwwroot/index.php?s=/home/disasterinfo/add.html
+ERR: Think\Model:updata方法不存在！
+
